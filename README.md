@@ -10,8 +10,8 @@ Simple Unity3D project presenting the idea behind a youtube video from Numberphi
 After some iterations a Sierpiński triangle will start to emerge.  
 
 Finished example:  
-<img width="364" alt="ex1 (2)" src="https://github.com/maciejokapa/triangle/assets/34005915/7e301701-2878-4280-b7d5-d2406e495aa1">  
+<img width="364" alt="ex1 (2)" src="https://github.com/maciejokapa/Triangle/blob/main/Screenshots/ex1.PNG">  
 Stages of the algorithm:  
-<img width="367" alt="ex3_1" src="https://github.com/maciejokapa/triangle/assets/34005915/10ca6e72-05bc-4b3a-9461-010b9198adc6">  
-<img width="367" alt="ex3_2" src="https://github.com/maciejokapa/triangle/assets/34005915/56c09b99-4dce-4448-af71-10ea5690e962">  
-<img width="370" alt="ex3_3" src="https://github.com/maciejokapa/triangle/assets/34005915/6dabb03d-914d-4dfa-826e-d982d203bb6b">  
+<img width="367" alt="ex3_1" src="https://github.com/maciejokapa/Triangle/blob/main/Screenshots/ex3_1.PNG">  
+<img width="367" alt="ex3_2" src="https://github.com/maciejokapa/Triangle/blob/main/Screenshots/ex3_2.PNG">  
+<img width="370" alt="ex3_3" src="https://github.com/maciejokapa/Triangle/blob/main/Screenshots/ex3_3.PNG">  
